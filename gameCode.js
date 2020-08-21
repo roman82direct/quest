@@ -83,7 +83,7 @@ switch (event) {
         alert('Ошибка');
 }
 
-//------------------------------------------
+//-------------------------------------------
 
 function getResult(e){
     answers.forEach(element => console.log(element));//подсказка в консоль
